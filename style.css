@@ -11,9 +11,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
+	margin: 5;
+	padding: 8;
+	border: 2;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -45,7 +45,7 @@ p {
     font-family: 'Times New Roman', Times, serif
 }
 html {
-	background: blue;
+	background: darkorange;
 	font-family: cursive;
 	text-align: center;	
 }
@@ -54,4 +54,10 @@ header {
 }
 b {
 	font-size: large
+}
+p.florida {
+	color: aqua
+}
+#id { 
+	background-color: black
 }
